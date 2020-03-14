@@ -1,0 +1,2 @@
+# contsys
+Ontology for continuity
