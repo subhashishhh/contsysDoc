@@ -9,5 +9,5 @@ Objectives:
 **Test** OWL ontolgoy using real dataset. 
 
 
-**Update** https://contsys.org/pages/Guest%20blog/FormalOntology 
+**Update**: Building a Formal Ontology for Continuity of Care **ISO Blog** https://contsys.org/pages/Guest%20blog/FormalOntology 
 
