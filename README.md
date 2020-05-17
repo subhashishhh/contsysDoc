@@ -8,3 +8,6 @@ Objectives:
 **Define Datatype**
 **Test** OWL ontolgoy using real dataset. 
 
+
+**Update** https://contsys.org/pages/Guest%20blog/FormalOntology 
+
