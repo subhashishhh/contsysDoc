@@ -98,7 +98,12 @@ A formal ontology of concepts for care process modelling (Contsys). A system of 
 <!--INTRODUCTION SECTION-->
     <div id="introduction"><h2 id="intro" class="list">Introduction <span class="backlink"> back to <a href="#toc">ToC</a></span></h2>
 <span class="markdown">
-This is a place holder text for the introduction. The introduction should briefly describe the ontology, its motivation, state of the art and goals.</span>
+The Ontology of Continuity of care (ContSOnto) is an emerging research area consisting of the extension of healthcare ontology  to the continuity of care domain. This field is positioned at the confluence of health informatics, nursing informatics, process modeling, and artificial intelligence. 
+
+Gulliford et al. (2006) describe “Continuity of care is concerned with the quality of care over time”. There are two aspects of this. One is based on the patient's experience of a 'continuous caring relationship' with the healthcare professional. Another one is based on a system of care where seamless service needed to provide through integration, coordination and interoperable information systems.      
+
+WHO (2018) define Continuity of care as reflects the extent to which a series of discrete health care events is experienced by people as coherent and interconnected over time and consistent with their health needs and preferences.
+</span>
 <div id="namespacedeclarations">
 <h3 id="ns" class="list">Namespace declarations</h3>
 <div id="ns" align="center">
