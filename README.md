@@ -5635,7 +5635,8 @@ This section provides details for each class and property defined by ContSOnto.
   <div id="references">
 <h2 id="ref" class="list">References <span class="backlink"> back to <a href="#toc">ToC</a></span></h2>
 <span class="markdown">
-Add your references here. It is recommended to have them as a list.</span>
+creator: Subhashis Das, subhashis.das@dcu.ie
+contributor: Dr. Pamela Hussey, pamela.hussey@dcu.ie.</span>
 
 </div>
 <div id="acknowledgments">
