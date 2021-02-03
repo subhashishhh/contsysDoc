@@ -6,7 +6,7 @@ Gulliford et al. (2006) describe “Continuity of care is concerned with the qua
 Objectives:
 **contsys** OWL ontology
 **Define Datatype**
-**Test** OWL ontolgoy using real dataset. 
+**Test** OWL ontology using real dataset. 
 
 
 **Update**: Building a Formal Ontology for Continuity of Care **ISO Blog** https://contsys.org/pages/Guest%20blog/FormalOntology 
