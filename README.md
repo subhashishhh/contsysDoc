@@ -1059,7 +1059,7 @@ This ontology has the following classes and properties.</span>
          <span>note</span>
       </a>
    </li>
-</ul><iframe align="center" width="100%" height ="500px" src="https://www.debashisnaskar.com/art-gallery" title="Web VOWL"> </iframe> 
+</ul><iframe align="center" width="100%" height ="500px" src="https://github.com/subhashishhh/contsysDoc/blob/master/FormalOntologyVOWL.png" title="Web VOWL"> </iframe> 
 </div>
   
 
